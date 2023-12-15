@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Traineratwot\MoreInputsColumn\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MoreInputsColumnCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'more-inputs-column';
 
     public $description = 'My command';
 
